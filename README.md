@@ -23,3 +23,7 @@ npx zenn preview
 ```
 
 http://localhost:8000
+
+## 本番
+
+https://zenn.dev/komtaki
