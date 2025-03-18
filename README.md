@@ -6,6 +6,10 @@
 - [GitHub リポジトリ連携で画像をアップロードする方法](https://zenn.dev/zenn/articles/zenn-cli-guide)
 - [Zenn の Markdown 記法一覧](https://zenn.dev/zenn/articles/markdown-guide)
 
+その他参考リンク
+
+- [コードハイライトの一覧](https://prismjs.com/#supported-languages)
+
 ## 記事の作成
 
 ```sh
